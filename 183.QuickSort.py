@@ -18,6 +18,9 @@ def quick_sort(arr):
 print(quick_sort(b))
 
 '''
+Go for quick Sort if you are not much worried about the worst case scenario and need better space complexity
+than Merge Sort
+
 Time Complexity:
 Best: Ω(n log(n))
 Average: Θ(n log(n))
